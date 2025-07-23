@@ -1,12 +1,12 @@
 {
-  "name": "your bot name",
+  "name": "YOUNGT-XMD",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By your name",
+  "description": "A WhatsApp Bot Created By YOUNG TEE",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name your bot name",
     "stop": "pm2 stop your bot name",
-    "restart": "pm2 restart your bot name"
+    "restart": "pm2 restart YOUNGT-XMD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.9",
