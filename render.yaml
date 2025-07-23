@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: your bot name-pair-site
+    env: docker
+    plan: free
+    branch: main
+    repo: https://github.com/github name/pair name
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
