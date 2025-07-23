@@ -52,34 +52,32 @@ You can deploy this bot for free on the following platforms:
 ---
 
 ### talkdrove (Free Deploy )  
-[![Deploy](https://img.shields.io/badge/Deploy-TalkDrove-blue?logo=whatsapp)](https://host.talkdrove.com/share-bot/50)
+[![Deploy]
 
 ---
 
 ###  Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Youngtee230/YOUNGT-XMD)
+[![Deploy]
 
 ---
 
 ###  Replit
-[![Deploy to Replit](https://img.shields.io/badge/Deploy%20to%20Replit-blue?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/lakaofc/laka-md)
+[![Deploy to Replit]
 
 ---
 
 
 ###  Railway
-[![Deploy to Railway](https://img.shields.io/badge/Deploy%20to%20Railway-black?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new/template/6KyYkk?referralCode=lakaofc)
-
+[![Deploy to Railway]
 ---
 
 ###  Koyeb
-[![Deploy to Koyeb](https://img.shields.io/badge/Deploy%20to%20Koyeb-orange?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/lakaofc/laka-md)
-
+[![Deploy to Koyeb]
 ---
 
 
 ###  Render
-[![Deploy to Render](https://img.shields.io/badge/Deploy%20to%20Render-green?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/deploy/srv-cjjm8m9k9qfdl8c2fnb0?repo=https://github.com/lakaofc/laka-md)
+[![Deploy to Render]
 
 ---
 
@@ -132,7 +130,7 @@ jobs:
 
 ---
 
- ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flakaofc%2Flaka-md&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+ 
 
 ![Docker Size](https://img.shields.io/docker/image-size/Youngtee230/YOUNGT-XMD?style=flat&logo=docker&label=Docker+Size)
 ![Docker Pulls](https://img.shields.io/docker/pulls/Youngtee230/YOUNGT-XMD?style=flat&logo=docker&label=Docker+Pulls)
@@ -151,7 +149,7 @@ jobs:
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
-[![WhatsApp Channel]()
+[![WhatsApp Channel](https://whatsapp.com/channel/0029Vb9p514JkK797wMg5y2N)
 
 ---
 
